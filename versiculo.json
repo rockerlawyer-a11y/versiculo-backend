@@ -1,22 +1,292 @@
 {
   "versiculos": [
-    {
-      "versiculo": "Este es el día que hizo el Señor; nos gozaremos y alegraremos en él.",
-      "referencia": "Salmos 118:24",
-      "reflexion": "Cada día es una oportunidad nueva. No depende de ayer ni de mañana, sino de cómo decides vivir hoy.",
-      "aplicacion": "Agradece conscientemente este día y actúa con esperanza, incluso en lo pequeño."
-    },
-    {
+     {
       "versiculo": "El Señor es mi pastor; nada me faltará.",
       "referencia": "Salmos 23:1",
-      "reflexion": "Confiar no es entender todo, es descansar sabiendo que no estás solo.",
-      "aplicacion": "Suelta hoy una preocupación y entrégala en oración."
+      "reflexion": "Dios habla a tu vida a través de su palabra.",
+      "aplicacion": "Medita y actúa con fe hoy."
     },
     {
       "versiculo": "Todo lo puedo en Cristo que me fortalece.",
       "referencia": "Filipenses 4:13",
-      "reflexion": "La fortaleza no siempre es fuerza, a veces es perseverancia.",
-      "aplicacion": "Da hoy un paso, aunque sea pequeño, hacia lo que temes."
+      "reflexion": "Dios habla a tu vida a través de su palabra.",
+      "aplicacion": "Medita y actúa con fe hoy."
+    },
+    {
+      "versiculo": "Confía en el Señor con todo tu corazón.",
+      "referencia": "Proverbios 3:5",
+      "reflexion": "Dios habla a tu vida a través de su palabra.",
+      "aplicacion": "Medita y actúa con fe hoy."
+    },
+    {
+      "versiculo": "El Señor está cerca de los quebrantados de corazón.",
+      "referencia": "Salmos 34:18",
+      "reflexion": "Dios habla a tu vida a través de su palabra.",
+      "aplicacion": "Medita y actúa con fe hoy."
+    },
+    {
+      "versiculo": "Mi paz les dejo, mi paz les doy.",
+      "referencia": "Juan 14:27",
+      "reflexion": "Dios habla a tu vida a través de su palabra.",
+      "aplicacion": "Medita y actúa con fe hoy."
+    },
+    {
+      "versiculo": "Busquen primero el reino de Dios.",
+      "referencia": "Mateo 6:33",
+      "reflexion": "Dios habla a tu vida a través de su palabra.",
+      "aplicacion": "Medita y actúa con fe hoy."
+    },
+    {
+      "versiculo": "El amor es paciente, es bondadoso.",
+      "referencia": "1 Corintios 13:4",
+      "reflexion": "Dios habla a tu vida a través de su palabra.",
+      "aplicacion": "Medita y actúa con fe hoy."
+    },
+    {
+      "versiculo": "Jehová es mi luz y mi salvación; ¿de quién temeré?",
+      "referencia": "Salmos 27:1",
+      "reflexion": "Dios habla a tu vida a través de su palabra.",
+      "aplicacion": "Medita y actúa con fe hoy."
+    },
+    {
+      "versiculo": "Clama a mí, y yo te responderé.",
+      "referencia": "Jeremías 33:3",
+      "reflexion": "Dios habla a tu vida a través de su palabra.",
+      "aplicacion": "Medita y actúa con fe hoy."
+    },
+    {
+      "versiculo": "Los que esperan en el Señor renovarán sus fuerzas.",
+      "referencia": "Isaías 40:31",
+      "reflexion": "Dios habla a tu vida a través de su palabra.",
+      "aplicacion": "Medita y actúa con fe hoy."
+    },
+    {
+      "versiculo": "El Señor peleará por ustedes; ustedes quédense tranquilos.",
+      "referencia": "Éxodo 14:14",
+      "reflexion": "Dios habla a tu vida a través de su palabra.",
+      "aplicacion": "Medita y actúa con fe hoy."
+    },
+    {
+      "versiculo": "Bienaventurados los de limpio corazón.",
+      "referencia": "Mateo 5:8",
+      "reflexion": "Dios habla a tu vida a través de su palabra.",
+      "aplicacion": "Medita y actúa con fe hoy."
+    },
+    {
+      "versiculo": "El gozo del Señor es mi fortaleza.",
+      "referencia": "Nehemías 8:10",
+      "reflexion": "Dios habla a tu vida a través de su palabra.",
+      "aplicacion": "Medita y actúa con fe hoy."
+    },
+    {
+      "versiculo": "Encomienda al Señor tu camino.",
+      "referencia": "Salmos 37:5",
+      "reflexion": "Dios habla a tu vida a través de su palabra.",
+      "aplicacion": "Medita y actúa con fe hoy."
+    },
+    {
+      "versiculo": "El Señor es bueno; es refugio en el día de la angustia.",
+      "referencia": "Nahúm 1:7",
+      "reflexion": "Dios habla a tu vida a través de su palabra.",
+      "aplicacion": "Medita y actúa con fe hoy."
+    },
+    {
+      "versiculo": "No temas, porque yo estoy contigo.",
+      "referencia": "Isaías 41:10",
+      "reflexion": "Dios habla a tu vida a través de su palabra.",
+      "aplicacion": "Medita y actúa con fe hoy."
+    },
+    {
+      "versiculo": "Dios es nuestro amparo y fortaleza.",
+      "referencia": "Salmos 46:1",
+      "reflexion": "Dios habla a tu vida a través de su palabra.",
+      "aplicacion": "Medita y actúa con fe hoy."
+    },
+    {
+      "versiculo": "El que habita al abrigo del Altísimo.",
+      "referencia": "Salmos 91:1",
+      "reflexion": "Dios habla a tu vida a través de su palabra.",
+      "aplicacion": "Medita y actúa con fe hoy."
+    },
+    {
+      "versiculo": "El Señor cumple todas sus promesas.",
+      "referencia": "Números 23:19",
+      "reflexion": "Dios habla a tu vida a través de su palabra.",
+      "aplicacion": "Medita y actúa con fe hoy."
+    },
+    {
+      "versiculo": "El corazón alegre constituye buen remedio.",
+      "referencia": "Proverbios 17:22",
+      "reflexion": "Dios habla a tu vida a través de su palabra.",
+      "aplicacion": "Medita y actúa con fe hoy."
+    },
+    {
+      "versiculo": "El Señor da sabiduría.",
+      "referencia": "Proverbios 2:6",
+      "reflexion": "Dios habla a tu vida a través de su palabra.",
+      "aplicacion": "Medita y actúa con fe hoy."
+    },
+    {
+      "versiculo": "La misericordia del Señor es nueva cada mañana.",
+      "referencia": "Lamentaciones 3:23",
+      "reflexion": "Dios habla a tu vida a través de su palabra.",
+      "aplicacion": "Medita y actúa con fe hoy."
+    },
+    {
+      "versiculo": "El Señor guarda a todos los que le aman.",
+      "referencia": "Salmos 145:20",
+      "reflexion": "Dios habla a tu vida a través de su palabra.",
+      "aplicacion": "Medita y actúa con fe hoy."
+    },
+    {
+      "versiculo": "El Señor es mi roca y mi salvación.",
+      "referencia": "Salmos 62:2",
+      "reflexion": "Dios habla a tu vida a través de su palabra.",
+      "aplicacion": "Medita y actúa con fe hoy."
+    },
+    {
+      "versiculo": "El amor perfecto echa fuera el temor.",
+      "referencia": "1 Juan 4:18",
+      "reflexion": "Dios habla a tu vida a través de su palabra.",
+      "aplicacion": "Medita y actúa con fe hoy."
+    },
+    {
+      "versiculo": "El Señor conoce el camino de los justos.",
+      "referencia": "Salmos 1:6",
+      "reflexion": "Dios habla a tu vida a través de su palabra.",
+      "aplicacion": "Medita y actúa con fe hoy."
+    },
+    {
+      "versiculo": "El Señor sostiene a los humildes.",
+      "referencia": "Salmos 147:6",
+      "reflexion": "Dios habla a tu vida a través de su palabra.",
+      "aplicacion": "Medita y actúa con fe hoy."
+    },
+    {
+      "versiculo": "El Señor es cercano a todos los que le invocan.",
+      "referencia": "Salmos 145:18",
+      "reflexion": "Dios habla a tu vida a través de su palabra.",
+      "aplicacion": "Medita y actúa con fe hoy."
+    },
+    {
+      "versiculo": "La palabra de Dios es viva y eficaz.",
+      "referencia": "Hebreos 4:12",
+      "reflexion": "Dios habla a tu vida a través de su palabra.",
+      "aplicacion": "Medita y actúa con fe hoy."
+    },
+    {
+      "versiculo": "El Señor bendice a su pueblo con paz.",
+      "referencia": "Salmos 29:11",
+      "reflexion": "Dios habla a tu vida a través de su palabra.",
+      "aplicacion": "Medita y actúa con fe hoy."
+    },
+    {
+      "versiculo": "El Señor es justo en todos sus caminos.",
+      "referencia": "Salmos 145:17",
+      "reflexion": "Dios habla a tu vida a través de su palabra.",
+      "aplicacion": "Medita y actúa con fe hoy."
+    },
+    {
+      "versiculo": "El Señor escucha cuando clamo.",
+      "referencia": "Salmos 4:3",
+      "reflexion": "Dios habla a tu vida a través de su palabra.",
+      "aplicacion": "Medita y actúa con fe hoy."
+    },
+    {
+      "versiculo": "El Señor es mi fortaleza.",
+      "referencia": "Salmos 18:2",
+      "reflexion": "Dios habla a tu vida a través de su palabra.",
+      "aplicacion": "Medita y actúa con fe hoy."
+    },
+    {
+      "versiculo": "El Señor me pastoreará siempre.",
+      "referencia": "Isaías 49:10",
+      "reflexion": "Dios habla a tu vida a través de su palabra.",
+      "aplicacion": "Medita y actúa con fe hoy."
+    },
+    {
+      "versiculo": "El Señor es fiel en todas sus palabras.",
+      "referencia": "Salmos 145:13",
+      "reflexion": "Dios habla a tu vida a través de su palabra.",
+      "aplicacion": "Medita y actúa con fe hoy."
+    },
+    {
+      "versiculo": "El Señor da descanso a los cansados.",
+      "referencia": "Mateo 11:28",
+      "reflexion": "Dios habla a tu vida a través de su palabra.",
+      "aplicacion": "Medita y actúa con fe hoy."
+    },
+    {
+      "versiculo": "El Señor es mi ayuda.",
+      "referencia": "Salmos 121:2",
+      "reflexion": "Dios habla a tu vida a través de su palabra.",
+      "aplicacion": "Medita y actúa con fe hoy."
+    },
+    {
+      "versiculo": "El Señor dirige mis pasos.",
+      "referencia": "Proverbios 16:9",
+      "reflexion": "Dios habla a tu vida a través de su palabra.",
+      "aplicacion": "Medita y actúa con fe hoy."
+    },
+    {
+      "versiculo": "El Señor renueva mis fuerzas.",
+      "referencia": "Salmos 23:3",
+      "reflexion": "Dios habla a tu vida a través de su palabra.",
+      "aplicacion": "Medita y actúa con fe hoy."
+    },
+    {
+      "versiculo": "El Señor me rodea con su favor.",
+      "referencia": "Salmos 5:12",
+      "reflexion": "Dios habla a tu vida a través de su palabra.",
+      "aplicacion": "Medita y actúa con fe hoy."
+    },
+    {
+      "versiculo": "El Señor guarda mi salida y mi entrada.",
+      "referencia": "Salmos 121:8",
+      "reflexion": "Dios habla a tu vida a través de su palabra.",
+      "aplicacion": "Medita y actúa con fe hoy."
+    },
+    {
+      "versiculo": "El Señor es bueno con todos.",
+      "referencia": "Salmos 145:9",
+      "reflexion": "Dios habla a tu vida a través de su palabra.",
+      "aplicacion": "Medita y actúa con fe hoy."
+    },
+    {
+      "versiculo": "El Señor es paciente y grande en misericordia.",
+      "referencia": "Salmos 103:8",
+      "reflexion": "Dios habla a tu vida a través de su palabra.",
+      "aplicacion": "Medita y actúa con fe hoy."
+    },
+    {
+      "versiculo": "El Señor me sostiene con su mano.",
+      "referencia": "Isaías 41:13",
+      "reflexion": "Dios habla a tu vida a través de su palabra.",
+      "aplicacion": "Medita y actúa con fe hoy."
+    },
+    {
+      "versiculo": "El Señor es mi escudo.",
+      "referencia": "Salmos 28:7",
+      "reflexion": "Dios habla a tu vida a través de su palabra.",
+      "aplicacion": "Medita y actúa con fe hoy."
+    },
+    {
+      "versiculo": "El Señor cumple su propósito en mí.",
+      "referencia": "Salmos 138:8",
+      "reflexion": "Dios habla a tu vida a través de su palabra.",
+      "aplicacion": "Medita y actúa con fe hoy."
+    },
+    {
+      "versiculo": "El Señor es mi paz.",
+      "referencia": "Efesios 2:14",
+      "reflexion": "Dios habla a tu vida a través de su palabra.",
+      "aplicacion": "Medita y actúa con fe hoy."
+    },
+    {
+      "versiculo": "El Señor es digno de confianza.",
+      "referencia": "Salmos 9:10",
+      "reflexion": "Dios habla a tu vida a través de su palabra.",
+      "aplicacion": "Medita y actúa con fe hoy."
     }
   ]
 }
