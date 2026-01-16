@@ -1,7 +1,22 @@
 {
-  "tema": "Esperanza en medio del cansancio",
-  "versiculo": "Este es el día que hizo el Señor; nos gozaremos y alegraremos en él.",
-  "referencia": "Salmos 118:24",
-  "reflexion": "Hay días en los que la fe no grita, solo resiste. Y eso también es fe.",
-  "aplicacion": "Haz hoy una cosa pequeña con amor, aunque no tengas ganas."
+  "versiculos": [
+    {
+      "versiculo": "Este es el día que hizo el Señor; nos gozaremos y alegraremos en él.",
+      "referencia": "Salmos 118:24",
+      "reflexion": "Cada día es una oportunidad nueva. No depende de ayer ni de mañana, sino de cómo decides vivir hoy.",
+      "aplicacion": "Agradece conscientemente este día y actúa con esperanza, incluso en lo pequeño."
+    },
+    {
+      "versiculo": "El Señor es mi pastor; nada me faltará.",
+      "referencia": "Salmos 23:1",
+      "reflexion": "Confiar no es entender todo, es descansar sabiendo que no estás solo.",
+      "aplicacion": "Suelta hoy una preocupación y entrégala en oración."
+    },
+    {
+      "versiculo": "Todo lo puedo en Cristo que me fortalece.",
+      "referencia": "Filipenses 4:13",
+      "reflexion": "La fortaleza no siempre es fuerza, a veces es perseverancia.",
+      "aplicacion": "Da hoy un paso, aunque sea pequeño, hacia lo que temes."
+    }
+  ]
 }
